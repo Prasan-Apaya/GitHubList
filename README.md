@@ -1,5 +1,7 @@
 # GitHubList
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a3842e79b83445e9a05f10cee37d7e4a)](https://www.codacy.com/manual/KKApaya/GitHubList?utm_source=github.com&utm_medium=referral&utm_content=KKApaya/GitHubList&utm_campaign=Badge_Grade_Dashboard)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7776eb88681469a9e49d/maintainability)](https://codeclimate.com/github/KKApaya/GitHubList)
+
 ### Libraries Used
 
  - [Retrofit](https://square.github.io/retrofit/) - Http Client for Api Calls
