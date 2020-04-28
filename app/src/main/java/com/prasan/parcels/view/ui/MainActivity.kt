@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
                 if(response.isSuccessful){
                     var userList: UserList? = response.body()
                     val userAdapter = UserAdapter()
-                    userAdapter.setUsers(userList!!.getItems())
+                    userAdapter.setUsers(userList!!.items)
                     recyclerView.adapter = userAdapter
                 }
             }

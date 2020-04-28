@@ -1,6 +1,5 @@
 package com.prasan.parcels.api
 
-import com.prasan.parcels.model.User
 import com.prasan.parcels.model.UserList
 import retrofit2.Call
 import retrofit2.http.GET
