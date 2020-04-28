@@ -1,4 +1,5 @@
 # GitHubList
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a3842e79b83445e9a05f10cee37d7e4a)]
 
 
 ### Libraries Used
