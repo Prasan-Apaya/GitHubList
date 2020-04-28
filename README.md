@@ -3,12 +3,9 @@
 
 ### Libraries Used
 
-Retrofit - Http Client for Api Calls
-
-Gson - Serialization/Deserialization Library
-
-Okhttp - An HTTP+HTTP/2 client for Android
-
-Picasso - Image Loading Library
-
-Parceler - Custom Library for Parceling in Android
+ - [Leak Canary](https://github.com/square/leakcanary) - Capture Memory Leaks
+ - [Retrofit](https://square.github.io/retrofit/) - Http Client for Api Calls
+ - [Gson](https://github.com/google/gson) - Serialization/Deserialization Library
+ - [Okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android 
+ - [Picasso](https://square.github.io/picasso/) - Image Loading Library
+ - [Parceler](https://github.com/johncarl81/parceler) - Custom Library for Parceling in Android
